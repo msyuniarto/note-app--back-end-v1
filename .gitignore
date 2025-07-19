@@ -1,2 +1,7 @@
 node_modules/
 *.bak
+notes-api-web-server.pem
+.env
+.prod.env
+.vscode/*
+!.vscode/settings.json

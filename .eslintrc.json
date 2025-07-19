@@ -19,6 +19,8 @@
       "optionalDependencies": false,
       "peerDependencies": false,
       "packageDir": "./"
-    }]
+    }],
+    // "camelcase": ["error", { "properties": "never" }]
+    "camelcase": "off"
   }
 }
